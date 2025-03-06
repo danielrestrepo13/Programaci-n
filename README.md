@@ -24,4 +24,6 @@ En esta versión simplificada de Rummy, el objetivo del jugador es formar un tr�
 
 **4. Finalización del Juego:** El juego termina cuando uno de los jugadores haya formado 1 trío. 
 
-La aplicación debe estar construida usando funciones. Ustedes son libres de escoger los elementos gráficos y de jugabilidad que consideren adecuados. También son libres de elegir las soluciones que no se encuentren definidas dentro de las especificaciones. 
+La aplicación debe estar construida usando funciones. 
+
+Son libres de escoger los elementos gráficos y de jugabilidad que consideren adecuados. También son libres de elegir las soluciones que no se encuentren definidas dentro de las especificaciones. 
