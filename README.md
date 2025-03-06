@@ -1,5 +1,5 @@
-# Proyecto 1 
-## Ejercicio 5 - Rummy Simplificado
+# Proyecto 1
+## Ejercicio - Rummy Simplificado
 
 **Descripción del ejercicio**
 
