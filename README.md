@@ -18,10 +18,10 @@ En esta versión simplificada de Rummy, el objetivo del jugador es formar un tr�
 2. Intentar formar un trío si tiene tres cartas del mismo valor. 
 3. Descartar una de sus cartas hacia la pila de descarte.
    
-o Si el jugador forma un trío gana. 
+- Si el jugador forma un trío gana. 
 
-o En caso de que no gane, el turno pasa a la computadora. 
+- En caso de que no gane, el turno pasa a la computadora. 
 
-4. Finalización del Juego: El juego termina cuando uno de los jugadores haya formado 1 trío. 
+**4. Finalización del Juego:** El juego termina cuando uno de los jugadores haya formado 1 trío. 
 
 La aplicación debe estar construida usando funciones. Ustedes son libres de escoger los elementos gráficos y de jugabilidad que consideren adecuados. También son libres de elegir las soluciones que no se encuentren definidas dentro de las especificaciones. 
