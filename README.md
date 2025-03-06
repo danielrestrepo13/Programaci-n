@@ -8,8 +8,11 @@ En esta versión simplificada de Rummy, el objetivo del jugador es formar un tr�
 **Reglas del Juego**
 
 **1. Reparto Inicial:** El mazo de cartas se baraja aleatoriamente y se reparten tres cartas a cada jugador. El resto del mazo se coloca boca abajo como el mazo de robo, y la primera carta se coloca boca arriba como la pila de descarte. 
+
 **2. Objetivo:** El objetivo es ser el primero en formar 1 trío de cartas del mismo valor (por ejemplo, tres reinas o tres sietes). 
+
 **3. Turnos:** 
+
 - En cada turno, un jugador puede: 
 1. Robar una carta, ya sea del mazo de robo o de la pila de descarte. 
 2. Intentar formar un trío si tiene tres cartas del mismo valor. 
